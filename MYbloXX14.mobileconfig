@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>45.90.28.0</string>
+					<string>2a07:a8c0::</string>
+					<string>45.90.30.0</string>
+					<string>2a07:a8c1::</string>
+				</array>
+				<key>ServerName</key>
+				<string>MYbloXX for iOS®</string>
+				<key>ServerURL</key>
+				<string>https://apple.dns.nextdns.io/f1eb46/MYbloXX14</string>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>MYbloXX for iOS®</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>A1E2F262-DB73-40F6-BD22-2E42A43A3C94.3C8F875F-45B8-4ACF-9F84-244D3D6DF258.d84df4</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProhibitDisablement</key>
+			<false/>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>The most advanced iOS xBlocker by MYXXdev™</string>
+	<key>PayloadDisplayName</key>
+	<string>MYbloXX for iOS® (iOS 14)</string>
+	<key>PayloadIdentifier</key>
+	<string>net.myxxdev.mybloxx</string>
+	<key>PayloadOrganization</key>
+	<string>MYXXdev™</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>03626C06-0546-44B3-B1B1-CD11414A7D13</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
